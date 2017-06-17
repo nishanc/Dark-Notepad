@@ -22,7 +22,7 @@ This theme is available under the terms of the Creative Commons 3.0 Unported Lic
 
 Installation:
 How to install
-Copy this file to C:\Users\%USERNAME%\AppData\Roaming\notepad++\themes
+Copy this file to 'C:\Users\%USERNAME%\AppData\Roaming\notepad++\themes'
 OR
 Press & hold Windows key + R, you will get ‘Run’ Dialog box. Type “%AppData%/notepad++/themes”
 without the quotation marks. And copy “NotepadDark-v1.0.xml” file to that folder.
