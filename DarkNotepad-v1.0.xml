@@ -8,8 +8,7 @@ Description:         Dark theme for Notepad++.
                      Based (moderately closely) on Visual Studio dark theme (Microsoft
 Incorporation) and Sublime Text (Jon Skinner).
 Supported languages: All the languages supported by release 6.7.4
-Last Modified:       27/5/2017
-License:             Feel free to modify this theme. 
+Last Modified:       27/5/2017License:             Feel free to modify this theme. 
                      This theme is available under the terms of the Creative Commons
                      Attribution 3.0 Unported License. You are free to to copy,
                      distribute and transmit the work, to adapt the work, or to make
@@ -46,7 +45,7 @@ Select “NotepadDark-v1.0” from theme list under “Select theme”.
             <WordsStyle name="OPERATOR" styleID="10" fgColor="B4B4B4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A63A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
